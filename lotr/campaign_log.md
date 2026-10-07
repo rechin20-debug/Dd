@@ -12,7 +12,7 @@ Persistent record of the simulation. Facts established in play override canon fr
 
 ## Setup
 - Start: Rómenna, Númenor, S.A. 3319, ~1 month before the Downfall. Armament sailed west 9 days earlier.
-- PC: young Númenórean of a King's Men noble house; refused to sail with the Armament. Father arranged quiet exile disguised as posting to Umbar garrison. Name/age pending.
+- PC: young Númenórean of a King's Men noble house; refused to sail with the Armament. Father arranged quiet exile disguised as posting to Umbar garrison. Name: Azrakhôr (Adûnaic). Age 25.
 - PC traits: whimsical, cold, intense, curious, mischievous, intelligent, strategic, wanderlust.
 - PC gear: armour, sword, small iron-bound chest (silver + some gold; enough for a modest house/land, not power).
 - Ordered not to write home (letters are opened).
@@ -30,8 +30,12 @@ Persistent record of the simulation. Facts established in play override canon fr
 - 3019 Feb 26: Breaking of the Fellowship; Mar 3: Helm's Deep
 - 3019 Mar 15: Pelennor Fields; Mar 25: Destruction of the Ring
 
+## GM private notes
+- Downfall strikes ~8 days after S2 arrival at Lond Daer (day ~27 from Rómenna). Expect great storm, surge up the Gwathló estuary, low-lying wharves flooded; fort and higher ground survive. Pre-signs: strange low water, still air, heat, tremors.
+
 ## Divergences from canon
 - none yet
 
 ## Session log
 - S1: Night departure from Rómenna on merchant ship *Erulaitalë* (Capt. Belzagar, 11 crew, cargo grain/oil, ~3 weeks to Umbar, poor winds all summer). Steward Hazad handed over chest. PC observed Elendil's 9 ships loading at night. Crew knows PC is disgraced and carrying money.
+- S2: Day 19, persistent SE headwinds. Belzagar abandons Umbar run, puts in at Lond Daer (Gwathló mouth) to sell grain; dumps PC there. Crew eyeing chest. Lond Daer: timber port, Númenórean fort, deforested hinterland, Gwathuirim laborers resentful. Estuary water abnormally low.
