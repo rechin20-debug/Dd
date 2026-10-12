@@ -14,7 +14,7 @@
 - Rime Duchies: 14 states, ~600k km2 total (much glacier), each 7k-55k km2, 20k-80k people each, ~600k total.
 - Thornmarch: ~15 states, ~0.9-1M km2 total, each 12k-70k km2, 100k-400k people each, ~3M total.
 - Silkwater enclave ~3-5k km2.
-- Gravesmere: ~800k km2 island, north tip ~480 km S of Wadun (3-5 days sail). Royal barrows on its north shore; interior wild, unsettled, forbidden by Stormchurch.
+- Gravesmere: ~860k km2 island (measured), 65.6-73.7N. North tip is ~480 km S of Wadun in latitude only; it also lies ~13 deg of longitude west, so the true straight-line distance is ~710 km (4-6 days sail; more with spring ice). Royal barrows on its north shore; interior wild, unsettled, forbidden by Stormchurch.
 - ILSABET PLAN REVISED: needs a seagoing ship (fluyt *Gannet*, Capt. Mags Holloway) and open water; sails at ice breakup (~25 Rimewane). Preparing now.
 
 ## Calendar
@@ -98,5 +98,6 @@ Travel now (skis/sledge, snow): ~25-30 km/day.
 - Bargain loophole (Snowflake's to exploit): withholding cold is not harm, and it goes free if Evander dies of something it did not cause. It has a motive to let him die passively.
 - Bargain trap: "not kept in dark". Lantern packed away on the trail can count as a knowing breach (free at once, never bindable again).
 - Clocks: "Shaman arrives ~9 Rimewane" has passed (logged offscreen); mark done.
-- Annotated map (maps/falariand_strip_annotated.webp) labels disagree with this ledger and tools/zones.py: RIME DUCHIES sits over the SW sea and THORNMARCH over the southern landmass (Terluff Stronghold), while zones.py treats the bordered cluster W of the crown lands as Rime Duchies and the bordered cluster E (Silkwater at its tip) as Thornmarch, matching "Wadun ~80 km from Thornmarch border". The labels are misplaced, or the geography is.
+- RESOLVED by measurement on maps/world_map.webp: the annotated strip's RIME DUCHIES and THORNMARCH labels are misplaced. Rime Duchies = bordered cluster W of the crown lands (~613k km2); Thornmarch = bordered cluster E of Wadun, Silkwater at its tip (~1.05M km2, slightly above the ledger's 0.9-1M); crown lands ~649k km2; Wadun 76.6N, ~83 km from the Thornmarch border; northern border ~884 km N. The landmass at Terluff Stronghold is not Thornmarch.
+- Gravesmere has black border lines drawn across it on the world map, i.e. internal political borders. That contradicts "interior wild, unsettled". Either they are something else (old realm lines, ruins of a fallen kingdom) or the island is inhabited.
 - ../World_Bible_Combined.docx is a different setting (planet ~2x Earth diameter, Roman-era tech, no gunpowder). This ledger uses 1.5x diameter, muskets and fluyts. Keep them separate or reconcile; "Falarith" (oracle city there) vs "Falariand" is a name overlap only.
